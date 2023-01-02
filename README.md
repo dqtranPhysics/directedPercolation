@@ -8,9 +8,9 @@ To execute the program, run
 ./directedPercolation.x <Lattice size> <number of time interations> <percolation probability> <number of independent runs> <random negative integer>
 
 After the program has been executed successfully, we have several ROOT macros to make graphs of the results. These are
-  dataCollapse.c
-  fitting.c
-  fittingN_a.c
-  fittingP_sur.c
-  fittingR_s.c
+  dataCollapse.c,
+  fitting.c,
+  fittingN_a.c,
+  fittingP_sur.c,
+  fittingR_s.c,
   makeMultiGraphs.c
